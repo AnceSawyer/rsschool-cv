@@ -1,3 +1,1 @@
-# rsschool-cv
-## https://ancesawyer.github.io/rsschool-cv/cv
-## https://ancesawyer.github.io/rsschool-cv/
+https://ancesawyer.github.io/rsschool-cv/
